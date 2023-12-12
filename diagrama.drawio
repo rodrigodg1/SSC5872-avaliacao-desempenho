@@ -1,13 +1,13 @@
 <mxfile host="65bd71144e">
     <diagram id="jy5Fmwt4aR5avQwbS5jl" name="Página-1">
-        <mxGraphModel dx="1594" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1582" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-                    <mxGeometry x="210" y="150" width="380" height="380" as="geometry"/>
+                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="150" width="470" height="380" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" target="5">
+                <mxCell id="16" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeWidth=2;" parent="1" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="130" y="340" as="sourcePoint"/>
                     </mxGeometry>
@@ -15,23 +15,53 @@
                 <mxCell id="4" value="Users" style="sketch=0;outlineConnect=0;strokeColor=#000000;fillColor=#141414;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" parent="1" vertex="1">
                     <mxGeometry x="30" y="300" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mwunderling.com/images/traefik_2/traefikproxy-vertical-logo-color.png;" vertex="1" parent="1">
-                    <mxGeometry x="230" y="270" width="92.88" height="140" as="geometry"/>
+                <mxCell id="39" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="5" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
-                    <mxGeometry x="350" y="170" width="230" height="140" as="geometry"/>
+                <mxCell id="5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mwunderling.com/images/traefik_2/traefikproxy-vertical-logo-color.png;clipPath=inset(15.67% 14.32% 24% 20.85%);" parent="1" vertex="1">
+                    <mxGeometry x="200" y="292.5" width="67.71" height="95" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="&lt;b&gt;Monitoramento&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
-                    <mxGeometry x="350" y="170" width="230" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://branditechture.agency/brand-logos/wp-content/uploads/2022/10/Grafana-1024x690.png;clipPath=inset(33.17% 11.67% 33.66% 9.67%);dashed=1;" vertex="1" parent="1">
-                    <mxGeometry x="460" y="240" width="105.68" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://tsh.io/wp-content/uploads/2022/05/prometheus-tool-logo.png;dashed=1;" vertex="1" parent="1">
-                    <mxGeometry x="360" y="210" width="90" height="90" as="geometry"/>
-                </mxCell>
-                <mxCell id="13" value="Variação de Carga de Trabalho" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;fontStyle=2" vertex="1" parent="1">
+                <mxCell id="13" value="Variação de Carga de Trabalho" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;fontStyle=2" parent="1" vertex="1">
                     <mxGeometry x="15" y="420" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Containers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;strokeWidth=2;dashed=1;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="180" y="150" width="470" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="480" y="235" width="140" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;" parent="22" vertex="1">
+                    <mxGeometry width="140" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;b&gt;Monitoramento&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;" parent="22" vertex="1">
+                    <mxGeometry width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://branditechture.agency/brand-logos/wp-content/uploads/2022/10/Grafana-1024x690.png;clipPath=inset(33.17% 11.67% 33.66% 9.67%);dashed=1;" parent="22" vertex="1">
+                    <mxGeometry x="17.159999999999968" y="170" width="105.68" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="22" source="12" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://tsh.io/wp-content/uploads/2022/05/prometheus-tool-logo.png;dashed=1;clipPath=inset(22.33% 1.33% 20.67% 0.33%);" parent="22" vertex="1">
+                    <mxGeometry x="25.000000000000114" y="40" width="90" height="52.16949152542373" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="320" y="230" width="151.99999999999994" height="342.2142857142857" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="29">
+                    <mxGeometry x="-10" y="5" width="120" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;b&gt;Aplicação&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="29">
+                    <mxGeometry x="-10" y="5" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png;clipPath=inset(31.68% 5.67% 25.92% 7.67%);" vertex="1" parent="29">
+                    <mxGeometry x="-4.060000000000005" y="165" width="108.12" height="33.69" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.interviewbit.com/blog/wp-content/uploads/2021/09/frontend.jpg;clipPath=inset(22% 9.63% 13.67% 7.41%);" vertex="1" parent="29">
+                    <mxGeometry x="19.7" y="45" width="60.6" height="52.21" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="30" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
