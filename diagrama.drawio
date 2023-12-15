@@ -45,23 +45,23 @@
                 <mxCell id="12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://tsh.io/wp-content/uploads/2022/05/prometheus-tool-logo.png;dashed=1;clipPath=inset(22.33% 1.33% 20.67% 0.33%);fontSize=14;" parent="22" vertex="1">
                     <mxGeometry x="25.000000000000114" y="40" width="90" height="52.16949152542373" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
-                    <mxGeometry x="320" y="230" width="151.99999999999994" height="342.2142857142857" as="geometry"/>
-                </mxCell>
-                <mxCell id="30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;fontSize=14;" parent="29" vertex="1">
-                    <mxGeometry x="-6.5" y="-30" width="120" height="210" as="geometry"/>
-                </mxCell>
-                <mxCell id="31" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Aplicação&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;fontSize=14;" parent="29" vertex="1">
-                    <mxGeometry x="-6.5" y="-30" width="120" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png;clipPath=inset(31.68% 5.67% 25.92% 7.67%);fontSize=14;" parent="29" vertex="1">
-                    <mxGeometry x="-0.5600000000000049" y="95" width="108.12" height="33.69" as="geometry"/>
-                </mxCell>
-                <mxCell id="38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.interviewbit.com/blog/wp-content/uploads/2021/09/frontend.jpg;clipPath=inset(22% 9.63% 13.67% 7.41%);fontSize=14;" parent="29" vertex="1">
-                    <mxGeometry x="23.2" y="10" width="60.6" height="52.21" as="geometry"/>
-                </mxCell>
                 <mxCell id="35" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontSize=14;" parent="1" source="30" target="7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="313.5" y="200" width="120" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Aplicação&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;gradientColor=none;dashed=1;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="313.5" y="200" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png;clipPath=inset(31.68% 5.67% 25.92% 7.67%);fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="319.44" y="325" width="108.12" height="33.69" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.interviewbit.com/blog/wp-content/uploads/2021/09/frontend.jpg;clipPath=inset(22% 9.63% 13.67% 7.41%);fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="343.2" y="240" width="60.6" height="52.21" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="Sock Shop" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="324.5" y="286" width="98" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
